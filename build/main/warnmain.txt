@@ -1,0 +1,17 @@
+missing module named PySide - imported by c:\python27\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_qt4plugins.py
+missing module named 'org.python' - imported by copy
+missing module named readline - imported by cmd, pdb
+missing module named org - imported by pickle
+missing module named fcntl - imported by tempfile, subprocess, serial.serialposix
+missing module named riscosenviron - imported by os
+missing module named riscospath - imported by os
+missing module named riscos - imported by os
+missing module named ce - imported by os
+missing module named _emx_link - imported by os
+missing module named os2 - imported by os
+missing module named pwd - imported by posixpath
+missing module named posix - imported by os
+missing module named resource - imported by posix
+missing module named termios - imported by serial.serialposix
+missing module named 'System.IO' - imported by serial.serialcli
+missing module named System - imported by serial.serialcli
